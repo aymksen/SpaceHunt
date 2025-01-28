@@ -50,7 +50,7 @@
 
 3. **Run the Game**:
    ```bash
-   python space_hunt.py
+   python game.py
    ```
 
 ---
